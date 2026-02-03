@@ -5,15 +5,17 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.second-element {
+#second-element {
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
-.third-element {
+/* third and fourth element */
+.smaller-font {
     font-size: 24px;
 }
 
-.fourth-element {
+#fourth-element {
     background-color: hsl(90, 100%, 80%);
+    font-weight: bold;
 }
