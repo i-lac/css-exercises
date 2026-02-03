@@ -5,11 +5,11 @@ button {
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-#dark-button {
+.dark-button {
     background-color: black;
     color: white;
 }
 
-#yellow-button {
+.yellow-button {
     background-color: yellow;
 }
